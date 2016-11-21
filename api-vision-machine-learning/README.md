@@ -1,2 +1,4 @@
-# googleCloudApis
-Exemplos usando API's Google Cloud
+# GoogleCloudApis
+
+Google Cloud Vision API and Machine Learning (Supervised Learning)
+
